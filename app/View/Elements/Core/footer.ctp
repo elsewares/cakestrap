@@ -1,0 +1,1 @@
+<? echo Configure::read('_App.copyright'); ?>

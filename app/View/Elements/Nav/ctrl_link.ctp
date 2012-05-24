@@ -1,0 +1,1 @@
+<?php echo $this->Html->link($controller, array('controller' => $controller, 'action' => 'index')); ?>
